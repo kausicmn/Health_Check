@@ -13,7 +13,7 @@ This Node.js program checks the health of a set of HTTP endpoints defined in a Y
 
 To run the program, use the following command:
 
-node index.js sample.yaml
+### node index.js sample.yaml
 
 
 
